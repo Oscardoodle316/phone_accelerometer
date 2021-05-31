@@ -1,5 +1,5 @@
 applications:
-- name: ygbety-iot
+- name: phoney
   buildpacks:
   - staticfile_buildpack
   memory: 30M
